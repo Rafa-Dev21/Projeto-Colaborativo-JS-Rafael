@@ -15,3 +15,9 @@ Durante o desenvolvimento deste projeto, foram explorados os seguintes conceitos
   - `Object.values()` — retorna os valores.
   - `Object.entries()` — retorna pares [chave, valor].
 - Casos de uso reais e aplicação prática.
+
+## 🔗 Acesse o Repositório
+
+Você pode visualizar o código completo e os exemplos práticos diretamente no GitHub:
+
+👉 [Projeto Colaborativo – Objetos e Propriedades no JavaScript](https://github.com/Rafa-Dev21/Projeto-Colaborativo-JS-Rafael)
